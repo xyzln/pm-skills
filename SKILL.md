@@ -1,7 +1,7 @@
 ---
 name: pm-expert-team
 slug: pm-expert-team
-version: "1.0.0"
+version: "1.1.0"
 displayName: 产品经理武器大师
 category: 产品管理
 description: 135 个中文产品经理技能的合集入口；总协调官按需调度产品策略、用户发现、优先级排序、GTM 增长、SaaS 财务等 14 大领域专业子技能
