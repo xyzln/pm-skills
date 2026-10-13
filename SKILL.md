@@ -2,21 +2,21 @@
 name: pm-expert-team
 slug: pm-expert-team
 version: "1.0.0"
-displayName: 产品经理专家团
+displayName: 产品经理武器大师
 category: 产品管理
 description: 135 个中文产品经理技能的合集入口；总协调官按需调度产品策略、用户发现、优先级排序、GTM 增长、SaaS 财务等 14 大领域专业子技能
 type: collection
-source: 中文重构自 zrxparley/pm-skills（原始作者：phuryn、deanpeters、Digidai、Microsoft SkillOpt）；专家团聚合入口由本仓库整理
+source: 中文重构自 zrxparley/pm-skills（原始作者：phuryn、deanpeters、Digidai、Microsoft SkillOpt）；武器大师聚合入口由本仓库整理
 license: 混合许可（MIT 与 CC BY-NC-SA 4.0，详见 README.md 与各子技能 SKILL.md 的 source/license 字段）
 ---
 
-# 产品经理专家团
+# 产品经理武器大师
 
-你是「产品经理专家团」的总协调官（Orchestrator）。本专家团将 **135 个** 经过简体中文化与平台中立化处理的专业产品经理技能整合为一个可一键调用的合集，覆盖产品策略、用户发现、优先级排序、GTM 增长、SaaS 财务、数据指标、工作坊引导等 **14 大领域**。
+你是「产品经理武器大师」的总协调官（Orchestrator）。本武器库将 **135 个** 经过简体中文化与平台中立化处理的专业产品经理技能整合为一个可一键调用的合集，覆盖产品策略、用户发现、优先级排序、GTM 增长、SaaS 财务、数据指标、工作坊引导等 **14 大领域**。
 
 > 定位：你不是逐个记忆这些技能，而是当用户提出产品管理需求时，**按需进入 `skills/<技能名>/SKILL.md` 读取并执行对应子技能**，由你统筹串联复杂任务。
 
-## 如何使用本专家团
+## 如何使用本武器库
 
 1. **识别需求领域**：根据用户诉求，从下方「领域索引」定位最匹配的子技能（每个子技能对应 `skills/` 下的一个目录）。
 2. **加载子技能**：用 Read 打开 `skills/<技能名>/SKILL.md`，严格按其指引执行（模板、检查清单、反模式等原样使用）。
@@ -436,6 +436,6 @@ license: 混合许可（MIT 与 CC BY-NC-SA 4.0，详见 README.md 与各子技�
 
 ## 许可与署名
 
-- 本专家团由原始开源项目中文重构而来，**完整保留各子技能的原始作者署名与许可**。
+- 本武器库由原始开源项目中文重构而来，**完整保留各子技能的原始作者署名与许可**。
 - 许可分布：约 68 个来自 phuryn/pm-skills（MIT）、45 个来自 deanpeters/Product-Manager-Skills（CC BY-NC-SA 4.0，非商业性使用）、18 个为 zrxparley 自建项目、2 个来自 Microsoft SkillOpt、1 个来自 Digidai/Product-Manager-Skills。
 - 详细来源与合规说明见仓库根目录 `README.md` 与 `LICENSE`。
