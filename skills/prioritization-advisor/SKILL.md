@@ -1,5 +1,9 @@
 ---
 name: prioritization-advisor
+slug: prioritization-advisor
+version: "1.0.0"
+displayName: 排优框架顾问
+category: 执行
 description: "根据产品阶段、团队背景和相关方需求选择优先级框架。当需要在 RICE 评分、ICE 评分、价值/投入矩阵或其他评分方法之间做决定时使用。"
 intent: >-
   通过围绕产品阶段、团队背景、决策需求和相关方态势提出自适应问题，引导产品经理（PM）选对优先级框架。用它避免「框架摇摆症」（频繁更换框架）或用错框架（例如用 RICE 评分排战略赌注、用 ICE 评分做数据驱动决策）。输出一份贴合你背景的框架推荐及实施指导。

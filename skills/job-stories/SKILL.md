@@ -1,5 +1,9 @@
 ---
 name: job-stories
+slug: job-stories
+version: "1.0.0"
+displayName: 任务故事
+category: 执行
 description: "使用「当【情境】时，我想【动机】，以便【结果】」格式创建任务故事，并附详细验收标准。当需要撰写任务故事、创建 JTBD 风格的需求池条目，或表达用户情境与动机时使用。"
 ---
 # 任务故事（Job Stories）

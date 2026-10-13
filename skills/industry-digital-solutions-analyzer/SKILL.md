@@ -1,5 +1,9 @@
 ---
 name: digital-solutions-analyzer
+slug: industry-digital-solutions-analyzer
+version: "1.0.0"
+displayName: 数字化方案分析
+category: 行业分析
 description: "分析指定行业的数字化转型方案，来源覆盖各大厂商（华为、阿里巴巴、百度、腾讯）及垂直行业数字化方案提供商；找出具体产品/方案，或记录每家公司的定位与差异化。当用户询问『数字化方案』『数字化转型』『行业数字化』『digital transformation』『行业云方案』『行业 AI 方案』时使用。industry-analyzer 插件的一环（6 技能流水线第 3 环）。"
 source: "https://github.com/zrxparley/industry-analyzer-skill"
 ---

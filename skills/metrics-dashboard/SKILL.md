@@ -1,5 +1,9 @@
 ---
 name: metrics-dashboard
+slug: metrics-dashboard
+version: "1.0.0"
+displayName: 指标仪表盘设计
+category: 产品发现
 description: "定义并设计产品指标仪表盘，涵盖关键指标、数据来源、可视化类型和告警阈值。当需要创建指标仪表盘、定义 KPI、搭建产品分析体系或制定数据监控方案时使用。"
 ---
 

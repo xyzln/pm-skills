@@ -1,5 +1,9 @@
 ---
 name: market-segments
+slug: market-segments
+version: "1.0.0"
+displayName: 市场细分
+category: 市场研究
 description: "识别 3-5 个潜在客户细分，含人群属性、待办任务（JTBD）与产品契合度分析。当探索市场细分、识别目标受众、评估新市场或学习如何做市场细分时使用。"
 ---
 

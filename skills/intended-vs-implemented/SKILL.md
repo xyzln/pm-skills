@@ -1,5 +1,9 @@
 ---
 name: intended-vs-implemented
+slug: intended-vs-implemented
+version: "1.0.0"
+displayName: 文档-代码差距分析
+category: AI 交付与 AI 产品
 description: "一种查找「系统本应做什么」与「代码实际做什么」之间差距的方法——这类 bug 通用扫描器查不出来，因为它们没有意图模型。界定什么算有记录的意图、什么算实现证据、哪些不匹配要紧、以及如何避免含糊其辞的结论。当需要审计 AI 生成的代码、按文档权限审查访问控制，或检查代码库是否与自身文档一致时使用。"
 ---
 

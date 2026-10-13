@@ -1,5 +1,9 @@
 ---
 name: executive-onboarding-playbook
+slug: executive-onboarding-playbook
+version: "1.0.0"
+displayName: 高管入职手册
+category: PM 职业发展与领导力
 description: "规划 VP 或 CPO 的 30-60-90 天诊断式入职路径。在进入新的高管产品职位、需要避免过早求变时使用。"
 intent: >-
   把 VP 或 CPO 转型的头 90 天设计成一个诊断过程，而不是执行冲刺。高层产品领导者转型中最常见的失败，是尚未理解就先行动——在建立起让这些决策站得住脚的证据基础之前，就调整架构、更换人员或宣布战略。

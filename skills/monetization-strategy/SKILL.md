@@ -1,5 +1,9 @@
 ---
 name: monetization-strategy
+slug: monetization-strategy
+version: "1.0.0"
+displayName: 变现策略
+category: 产品策略
 description: "构思 3-5 种变现策略，评估受众匹配度、风险与验证实验。当需要探索收入模式、评估定价策略或决定产品如何变现时使用。"
 ---
 # 变现策略

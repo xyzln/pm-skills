@@ -1,5 +1,9 @@
 ---
 name: value-prop-statements
+slug: value-prop-statements
+version: "1.0.0"
+displayName: 价值主张陈述
+category: 营销与增长
 description: "从既有价值主张出发，为营销、销售和新客引导生成价值主张陈述。当需要撰写营销文案、制作销售话术或打磨新客引导消息时使用。"
 ---
 # 价值主张陈述（Value Proposition Statements）

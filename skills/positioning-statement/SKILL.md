@@ -1,5 +1,9 @@
 ---
 name: positioning-statement
+slug: positioning-statement
+version: "1.0.0"
+displayName: 定位陈述
+category: 营销与增长
 description: 创建一条 Geoffrey Moore 式定位陈述。当你需要厘清服务谁、解决什么问题、所属品类、以及与替代方案有何不同时使用。
 intent: >-
   创建一条 Geoffrey Moore 式定位陈述，清晰表达你的产品服务谁、解决什么需求、属于什么品类、带来什么利益、以及与替代方案有何不同。当你需要让相关方就产品战略达成一致、指导信息传递，或检验你的价值主张是否清晰且守得住时使用。

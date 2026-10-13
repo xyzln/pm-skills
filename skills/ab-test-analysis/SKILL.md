@@ -1,5 +1,9 @@
 ---
 name: ab-test-analysis
+slug: ab-test-analysis
+version: "1.0.0"
+displayName: A/B 测试分析
+category: 数据分析
 description: "分析 A/B 测试结果：统计显著性、样本量校验、置信区间，以及 发布/延长/停止 建议。在评估实验结果、检查测试是否达到显著、解读分流测试数据，或决定是否发布某个变体时使用。"
 ---
 

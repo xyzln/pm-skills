@@ -1,5 +1,9 @@
 ---
 name: draft-nda
+slug: draft-nda
+version: "1.0.0"
+displayName: NDA 起草
+category: 工具箱
 description: "为双方起草一份详尽的保密协议（NDA），涵盖信息类型、管辖事项及需法律审核的条款。当需要起草保密协议或为合作准备 NDA 时使用。"
 ---
 # NDA（保密协议）起草

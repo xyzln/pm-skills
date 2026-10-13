@@ -1,5 +1,9 @@
 ---
 name: business-model
+slug: business-model
+version: "1.0.0"
+displayName: 商业模式画布
+category: 产品策略
 description: "生成一份包含全部 9 个构建块的商业模式画布。当你需要创建商业模式、记录一家企业如何创造价值，或分析既有商业模式时使用。"
 ---
 # 商业模式画布（Business Model Canvas）

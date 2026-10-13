@@ -1,5 +1,9 @@
 ---
 name: business-health-diagnostic
+slug: business-health-diagnostic
+version: "1.0.0"
+displayName: SaaS 健康诊断
+category: SaaS 财务与指标
 description: 诊断 SaaS 业务健康度，覆盖增长、留存、效率与资本四个维度。当需要准备业务复盘或排定紧急修复优先级时使用。
 intent: >-
   综合分析增长、留存、单位经济性与资本效率指标，诊断 SaaS 业务的整体健康度。用于及早发现问题、按紧急程度排定行动优先级，并为董事会会议、季度复盘或融资准备输出一份完整的健康记分卡。

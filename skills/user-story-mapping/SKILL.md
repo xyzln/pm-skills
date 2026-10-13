@@ -1,5 +1,9 @@
 ---
 name: user-story-mapping
+slug: user-story-mapping
+version: "1.0.0"
+displayName: 用户故事地图
+category: 执行
 description: 创建一幅用户故事地图，呈现活动、步骤、任务与发布切片。当需要围绕用户旅程规划工作流、需求池或 MVP 时使用。
 intent: >-
   通过创建层级化地图来可视化用户旅程：把高层活动拆解为步骤与任务，按从左到右的叙事流组织。用于在产品、设计与研发之间建立共识，基于用户工作流确定功能优先级，并发现用户体验中的缺口与机会。

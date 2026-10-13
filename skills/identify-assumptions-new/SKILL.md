@@ -1,5 +1,9 @@
 ---
 name: identify-assumptions-new
+slug: identify-assumptions-new
+version: "1.0.0"
+displayName: 风险假设识别（新产品）
+category: 产品发现
 description: "为新产品构想识别跨 8 大风险类别的高风险假设，涵盖上市策略（GTM）、战略、团队等维度。当需要评估创业风险、评审新产品概念，或为新业务梳理假设时使用。"
 ---
 

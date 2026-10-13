@@ -1,5 +1,9 @@
 ---
 name: marketing-ideas
+slug: marketing-ideas
+version: "1.0.0"
+displayName: 营销创意
+category: 营销与增长
 description: "生成 5 个有创意、高性价比的营销点子，含渠道、话术和互动逻辑。当需要头脑风暴营销活动、规划产品推广，或寻找创意营销战术时使用。"
 ---
 # 营销点子（Marketing Ideas）

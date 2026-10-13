@@ -1,5 +1,9 @@
 ---
 name: director-readiness-advisor
+slug: director-readiness-advisor
+version: "1.0.0"
+displayName: 总监转型辅导
+category: PM 职业发展与领导力
 description: 在准备、面试、落地到任与重新校准四个阶段，指导产品经理向总监（Director）的转型。当领导职责范围正在变化、你需要务实教练时使用。
 intent: >-
   通过自适应提问和针对性教练，引导产品经理（PM）和总监应对从产品经理到总监这一转型的具体挑战。诊断你在转型旅程中所处的位置，给出贴合你情况的、由实战经验支撑的实用建议——而不是泛泛的领导力建议。

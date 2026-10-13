@@ -1,5 +1,9 @@
 ---
 name: stakeholder-map
+slug: stakeholder-map
+version: "1.0.0"
+displayName: 干系人地图
+category: 执行
 description: "用权力/关注度矩阵建立相关方地图，为每个象限制定沟通策略，并生成一份沟通计划。当你需要管理相关方、为上线做准备、对齐跨职能团队，或规划相关方沟通时使用。"
 ---
 

@@ -1,5 +1,9 @@
 ---
 name: finance-metrics-quickref
+slug: finance-metrics-quickref
+version: "1.0.0"
+displayName: SaaS 财务指标速查
+category: SaaS 财务与指标
 description: 快速查阅 SaaS 财务指标、公式和基准值。当你在分析过程中需要快速查一个指标定义、公式或基准值时使用。
 intent: >-
   任何 SaaS 财务指标的快速参考，不做深度教学。当你需要快速查公式、核对基准值或回忆决策框架时使用。详细的解释、计算和示例，请参见相关的深挖类技能。

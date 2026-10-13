@@ -1,5 +1,9 @@
 ---
 name: financial-ratios-analysis
+slug: financial-ratios-analysis
+version: "1.0.0"
+displayName: 财务比率分析
+category: 商业战略与分析
 description: "财务比率与报表分析——评估盈利性、流动性、运营效率与偿债能力指标"
 source: "https://github.com/zrxparley/business-decision-tool"
 ---

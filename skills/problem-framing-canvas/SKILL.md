@@ -1,5 +1,9 @@
 ---
 name: problem-framing-canvas
+slug: problem-framing-canvas
+version: "1.0.0"
+displayName: 问题框架画布
+category: 工具箱
 description: "引导团队走完 MITRE 问题框架画布。当你需要在跳向解决方案之前，把问题想得更清楚时使用。"
 intent: >-
   通过结构化提问，分三个阶段引导产品经理（PM）走完 MITRE 问题框架画布流程：向内看（审视自己的假设与偏见）、向外看（了解谁在经历这个问题、谁没有）、重新框定（把洞察综合成可行动的问题陈述和「我们如何（How Might We）」问题）。借此确保你在跳向解决方案之前解决的是正确的问题——避免确认偏误、遗漏相关方和「先方案后问题」的思维。

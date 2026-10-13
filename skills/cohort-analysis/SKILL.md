@@ -1,5 +1,9 @@
 ---
 name: cohort-analysis
+slug: cohort-analysis
+version: "1.0.0"
+displayName: 同期群分析
+category: 数据分析
 description: "对用户参与度数据做同期群分析——留存曲线、功能采用趋势和客群级洞察。当需要按同期群分析用户留存、研究功能采用的时间变化、排查流失模式或识别参与度趋势时使用。"
 ---
 

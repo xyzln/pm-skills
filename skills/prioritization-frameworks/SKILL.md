@@ -1,5 +1,9 @@
 ---
 name: prioritization-frameworks
+slug: prioritization-frameworks
+version: "1.0.0"
+displayName: 优先级框架参考
+category: 执行
 description: "9 种优先级排序框架的参考指南，含公式、使用时机与模板——RICE、ICE、Kano、MoSCoW、机会分数等。当需要选择优先级排序方法、比较 RICE 与 ICE 等框架，或了解不同排序方法的原理时使用。"
 ---
 

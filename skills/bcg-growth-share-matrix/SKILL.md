@@ -1,5 +1,9 @@
 ---
 name: bcg-growth-share-matrix
+slug: bcg-growth-share-matrix
+version: "1.0.0"
+displayName: BCG 矩阵
+category: 商业战略与分析
 description: "BCG 增长-份额组合矩阵，用于产品组合分析——将产品归类为明星（Stars）、现金牛（Cash Cows）、问号（Question Marks）或瘦狗（Dogs）"
 source: "https://github.com/zrxparley/business-decision-tool"
 ---

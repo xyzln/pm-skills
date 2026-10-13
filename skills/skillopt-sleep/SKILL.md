@@ -1,5 +1,9 @@
 ---
 name: skillopt-sleep
+slug: skillopt-sleep
+version: "1.0.0"
+displayName: SkillOpt 睡眠进化
+category: 自我进化 — SkillOpt
 description: "Microsoft SkillOpt-Sleep 的通用适配版——通过“睡眠周期”实现离线自我进化。采集过往 PM 技能使用会话、挖掘重复任务、离线回放、在留出门控后整合已验证的改进，并暂存提案待审核。当用户希望自己的 PM 技能通过夜间/离线整合周期自我改进，或说“让我的技能从使用中学习”“跑一次睡眠周期”“整合你学到的东西”“随时间自我改进”等话时使用。"
 source: "https://github.com/microsoft/SkillOpt"
 license: MIT

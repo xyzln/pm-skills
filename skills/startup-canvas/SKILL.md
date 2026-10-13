@@ -1,5 +1,9 @@
 ---
 name: startup-canvas
+slug: startup-canvas
+version: "1.0.0"
+displayName: 初创画布
+category: 产品策略
 description: "为新产品生成一份初创画布（Startup Canvas），把产品战略（9 个板块）与商业模式（成本 + 收入）合为一体。它是商业模式画布（BMC）和精益画布（Lean Canvas）的替代方案，把战略与商业模式分开处理。当需要推出新产品或评估一个初创概念时使用。"
 ---
 

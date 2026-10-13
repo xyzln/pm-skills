@@ -1,5 +1,9 @@
 ---
 name: lean-ux-canvas
+slug: lean-ux-canvas
+version: "1.0.0"
+displayName: 精益 UX 画布
+category: 工具箱
 description: "引导团队完成精益用户体验画布（Lean UX Canvas）v2。当需要框定业务问题、暴露潜在假设、明确下一步学习重点时使用。"
 intent: >-
   引导产品经理（PM）填写 **Jeff Gothelf 的精益用户体验画布（Lean UX Canvas）v2**——一个单页引导工具，它让工作围绕「待解决的业务问题」展开，而不是「要实现的解决方案」。用它帮助跨职能团队对齐核心假设、形成可验证的假设陈述，并通过暴露认知盲区（问题、用户、价值，以及方案为何可能奏效），确保每个冲刺（Sprint）都有真实的学习发生。

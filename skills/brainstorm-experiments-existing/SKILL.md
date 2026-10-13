@@ -1,5 +1,9 @@
 ---
 name: brainstorm-experiments-existing
+slug: brainstorm-experiments-existing
+version: "1.0.0"
+displayName: 实验脑暴（已有产品）
+category: 产品发现
 description: "为现有产品设计检验假设的实验——原型、A/B 测试、技术探针等低投入验证方法。当需要验证假设、低成本测试功能想法，或规划产品实验时使用。"
 ---
 

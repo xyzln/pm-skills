@@ -1,5 +1,9 @@
 ---
 name: ecosystem-mapper
+slug: industry-ecosystem-mapper
+version: "1.0.0"
+displayName: 行业生态图谱
+category: 行业分析
 description: "绘制给定行业的供应链生态图谱——识别上游 / 中游 / 下游 / 横向支持各生态位及其代表性公司。当用户提出「生态图谱」「供应链分析」「industry ecosystem map」「产业图谱」「行业生态」「产业链」等诉求时使用。输出包含 4 生态位拆解 + Mermaid 图的 Markdown。行业分析器插件（6 技能流水线第 2 环）的组成部分。"
 source: "https://github.com/zrxparley/industry-analyzer-skill"
 ---

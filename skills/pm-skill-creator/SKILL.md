@@ -1,5 +1,9 @@
 ---
 name: pm-skill-creator
+slug: pm-skill-creator
+version: "1.0.0"
+displayName: PM 技能创建器
+category: 工具箱
 description: 通过引导式对话设计一个新的产品经理技能。当你手里有原始内容或一个想法，想把它塑造成一个合规的技能时使用。
 intent: >-
   以交互方式走完完整的技能设计流程——从原始想法或内容，到一份结构良好、符合技能库规范的 SKILL.md 草稿。通过自适应问题确定技能类型、范围、结构与内容，然后生成一份可直接验证的草稿。

@@ -1,5 +1,9 @@
 ---
 name: jobs-to-be-done
+slug: jobs-to-be-done
+version: "1.0.0"
+displayName: JTBD 需求探索
+category: JTBD 与问题界定
 description: "以结构化的 JTBD 格式挖掘客户任务、痛点和收益。在厘清未满足需求、重新定位产品或改进发现与信息传递时使用。"
 intent: >-
   系统性地探索客户想达成什么（功能性、社会性、情感性任务）、他们遇到什么痛点、他们寻求什么收益。用这个框架挖掘未满足的需求、验证产品想法，确保你的方案解决的是真实动机——而不只是表面上的功能请求。

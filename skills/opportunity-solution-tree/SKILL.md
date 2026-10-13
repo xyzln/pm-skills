@@ -1,5 +1,9 @@
 ---
 name: opportunity-solution-tree
+slug: opportunity-solution-tree
+version: "1.0.0"
+displayName: 机会解决方案树
+category: 产品发现
 description: "构建机会解决方案树（OST）来组织产品发现——把期望成果映射到机会、方案和实验。基于 Teresa Torres《持续发现习惯》（Continuous Discovery Habits）。在组织发现工作、把机会映射到方案或决定下一步做什么时使用。"
 ---
 

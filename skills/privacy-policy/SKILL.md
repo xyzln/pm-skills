@@ -1,5 +1,9 @@
 ---
 name: privacy-policy
+slug: privacy-policy
+version: "1.0.0"
+displayName: 隐私政策生成
+category: 工具箱
 description: "起草一份详尽的隐私政策，覆盖数据类型、司法辖区、GDPR 与合规考量，以及需要法律审核的条款。当需要创建隐私政策、更新数据保护文档或为合规做准备时使用。"
 ---
 # 隐私政策生成器

@@ -1,5 +1,9 @@
 ---
 name: user-personas
+slug: user-personas
+version: "1.0.0"
+displayName: 精细化用户画像
+category: 市场研究
 description: "从研究数据创建精细的用户画像——3 个画像，包含待办任务（JTBD）、痛点、收益和意外洞察。当需要从调研数据构建画像、从研究中创建用户档案或为产品决策细分用户时使用。"
 ---
 

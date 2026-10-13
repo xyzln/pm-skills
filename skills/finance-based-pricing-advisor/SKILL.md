@@ -1,5 +1,9 @@
 ---
 name: finance-based-pricing-advisor
+slug: finance-based-pricing-advisor
+version: "1.0.0"
+displayName: 财务定价顾问
+category: SaaS 财务与指标
 description: 使用 ARPU、转化率、流失风险、NRR 与回收期评估定价调整的影响。当需要决定某项定价调整是否应当上线时使用。
 intent: >-
   评估定价调整（涨价、新增套餐档位、附加功能付费、折扣）的财务影响，分析维度包括 ARPU/ARPA、转化影响、流失风险、NRR 效应与获客成本（CAC）回收期影响。借助支撑计算的数学过程与风险评估，对待定的定价调整做出数据驱动的「做/不做」决策。

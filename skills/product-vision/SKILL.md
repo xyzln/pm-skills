@@ -1,5 +1,9 @@
 ---
 name: product-vision
+slug: product-vision
+version: "1.0.0"
+displayName: 产品愿景
+category: 产品策略
 description: "头脑风暴一个能激励团队、对齐相关方，既鼓舞人心又切实可行、还能引发情感共鸣的产品愿景。当需要定义或打磨产品愿景、撰写愿景陈述，或让团队围绕共同方向对齐时使用。"
 ---
 # 产品愿景

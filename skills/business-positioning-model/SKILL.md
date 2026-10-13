@@ -1,5 +1,9 @@
 ---
 name: business-positioning-model
+slug: business-positioning-model
+version: "1.0.0"
+displayName: 商业定位模型
+category: 商业决策工具
 description: "Business Positioning Model — define strategic position, target market, and value proposition for product-market fit"
 source: "https://github.com/zrxparley/business-decision-tool"
 ---

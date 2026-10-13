@@ -1,5 +1,9 @@
 ---
 name: lead-scoring-report
+slug: lead-scoring-report
+version: "1.0.0"
+displayName: 线索评分报告
+category: 线索打分
 description: "把线索打分的规划包转化为一份正式的企业数字化转型商机百分制评分报告。仅在发现流程已给出评分输入摘要之后使用。"
 source: "https://github.com/zrxparley/lead-scoring"
 ---

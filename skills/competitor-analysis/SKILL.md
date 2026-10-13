@@ -1,5 +1,9 @@
 ---
 name: competitor-analysis
+slug: competitor-analysis
+version: "1.0.0"
+displayName: 竞品分析
+category: 市场研究
 description: "分析竞品的优势、劣势和差异化机会，识别直接竞品并绘制竞争格局。在做竞品调研、准备竞品简报或寻找差异化机会时使用。"
 ---
 

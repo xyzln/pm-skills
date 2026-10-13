@@ -1,5 +1,9 @@
 ---
 name: acquisition-channel-advisor
+slug: acquisition-channel-advisor
+version: "1.0.0"
+displayName: 获客渠道顾问
+category: 营销与增长
 description: "基于单位经济模型、客户质量与可扩展性评估获客渠道。当需要决定对某个增长渠道加大投入、继续测试还是关停时使用。"
 intent: >-
   引导产品经理基于单位经济模型（CAC、LTV、回本周期）、客户质量（留存率、NRR）和可扩展性（魔法数字、体量潜力），评估一个获客渠道应该扩张、继续测试还是关停。用于做出数据驱动的上市策略（GTM）决策，优化渠道组合，实现可持续增长。

@@ -1,5 +1,9 @@
 ---
 name: pol-probe-advisor
+slug: pol-probe-advisor
+version: "1.0.0"
+displayName: POL 探针顾问
+category: AI 交付与 AI 产品
 description: 根据假设、风险与资源，选择合适的生命验证探针（Proof of Life，PoL）。当你需要让验证方法匹配真正的学习目标、而非工具熟练度时使用本技能。
 intent: >-
   引导产品经理（PM）根据假设、风险和可用资源，从 5 种生命验证探针（Proof of Life，PoL）中选出合适的一种。当你需要消除某个特定风险或检验一个狭窄的假设，但不确定该用哪种验证方法时使用本技能。这个交互型技能确保你把最便宜的原型对接到最残酷的真相——而不是你最有把握做出来的那种原型。

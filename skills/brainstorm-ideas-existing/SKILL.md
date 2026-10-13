@@ -1,5 +1,9 @@
 ---
 name: brainstorm-ideas-existing
+slug: brainstorm-ideas-existing
+version: "1.0.0"
+displayName: 创意脑暴（已有产品）
+category: 产品发现
 description: "为现有产品头脑风暴产品创意，从产品经理、设计师、工程师三个视角进行多视角创意思考。当需要产生新功能想法、为已识别的机会构思解决方案，或与产品三驾马车一起做创意发散时使用。"
 ---
 

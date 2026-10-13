@@ -1,5 +1,9 @@
 ---
 name: pestle-analysis
+slug: pestle-analysis
+version: "1.0.0"
+displayName: PESTLE 分析
+category: 产品策略
 description: "执行 PESTLE 分析，覆盖政治（Political）、经济（Economic）、社会（Social）、技术（Technological）、法律（Legal）和环境（Environmental）因素。在评估宏观环境、制定战略规划或评估影响业务的外部因素时使用。"
 ---
 # PESTLE 分析

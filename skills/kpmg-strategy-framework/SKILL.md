@@ -1,5 +1,9 @@
 ---
 name: kpmg-strategy-framework
+slug: kpmg-strategy-framework
+version: "1.0.0"
+displayName: KPMG 战略框架
+category: KPMG 战略框架
 description: KPMG战略咨询思维框架。7个心智模型+5条决策启发式+方法论DNA。适用于战略落地、组织变革、价值创造、交易驱动型战略分析。来源50+条（一手>60%），调研截止2026-05。
 source: "https://github.com/zrxparley/kpmg-strategy-framework"
 ---

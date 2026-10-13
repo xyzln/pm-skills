@@ -1,5 +1,9 @@
 ---
 name: customer-journey-mapping-workshop
+slug: customer-journey-mapping-workshop
+version: "1.0.0"
+displayName: 旅程图工作坊
+category: 市场研究
 description: "运行一场客户旅程地图工作坊，通过自适应问题引导并产出成果。当你需要为某个用户画像和场景梳理阶段、行为、情绪、痛点与机会时使用。"
 intent: >-
   通过自适应提问，引导产品经理（PM）绘制客户旅程地图：围绕主角（用户画像）、场景/目标、旅程阶段、行为/情绪与改进机会逐一展开。借此可视化端到端的客户体验、识别痛点，并在团队间建立共同的心智模型——避免停留在表层功能清单，确保探索工作聚焦真实的客户问题，而不是臆想的解决方案。

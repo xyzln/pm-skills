@@ -1,5 +1,9 @@
 ---
 name: wwas
+slug: wwas
+version: "1.0.0"
+displayName: WWA 待项格式
+category: 执行
 description: "用“为什么—做什么—验收标准”（Why-What-Acceptance）格式创建产品需求池条目——相互独立、有价值、可测试，并带战略背景。当需要撰写结构化需求池条目、把功能拆分为工作项，或使用 WWA 格式时使用。"
 ---
 # 为什么—做什么—验收（WWA）

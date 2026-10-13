@@ -1,5 +1,9 @@
 ---
 name: win-loss-analysis
+slug: win-loss-analysis
+version: "1.0.0"
+displayName: 赢单/丢单分析
+category: 商业战略与分析
 description: "赢/输分析——系统评估成交与丢单的结果，以改进竞争定位和产品战略"
 source: "https://github.com/zrxparley/business-decision-tool"
 ---

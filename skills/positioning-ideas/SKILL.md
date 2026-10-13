@@ -1,5 +1,9 @@
 ---
 name: positioning-ideas
+slug: positioning-ideas
+version: "1.0.0"
+displayName: 定位创意
+category: 营销与增长
 description: "头脑风暴与竞品差异化的产品定位创意。识别主要竞品并生成带理由阐述的定位声明。当你需要制定产品定位、与竞品形成差异化，或打磨品牌定位策略时使用。"
 ---
 # 定位创意

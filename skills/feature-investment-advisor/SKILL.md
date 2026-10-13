@@ -1,5 +1,9 @@
 ---
 name: feature-investment-advisor
+slug: feature-investment-advisor
+version: "1.0.0"
+displayName: 功能投资顾问
+category: 产品策略
 description: 从收入影响、成本结构、投入产出比（ROI）与战略价值四个维度评估功能投入。当需要判断某个功能是否值得投入开发时使用。
 intent: >-
   引导产品经理（PM）基于财务影响分析判断某个功能是否值得开发。通过评估收入关联（直接或间接）、成本结构（研发 + 销货成本 + 运营支出）、ROI 计算与战略价值，做出数据驱动的优先级决策，并给出附计算过程的「做/不做」可执行建议。

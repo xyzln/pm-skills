@@ -1,5 +1,9 @@
 ---
 name: gtm-motions
+slug: gtm-motions
+version: "1.0.0"
+displayName: GTM 动作评估
+category: 上市策略
 description: "在 7 类上市策略动作中识别最合适的打法与工具：入站、外呼、付费数字广告、社区、合作伙伴、ABM 和 PLG。当需要选择营销渠道、在入站与外呼策略之间做取舍，或规划跨渠道营销活动时使用。"
 ---
 # 上市策略动作（GTM Motions）

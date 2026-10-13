@@ -1,5 +1,9 @@
 ---
 name: summarize-interview
+slug: summarize-interview
+version: "1.0.0"
+displayName: 访谈纪要总结
+category: 产品发现
 description: "将客户访谈记录整理为结构化摘要模板，包含待办任务（JTBD）、满意度信号和行动项。当需要处理访谈录音或文字记录、综合探索发现访谈，或生成访谈摘要时使用。"
 ---
 

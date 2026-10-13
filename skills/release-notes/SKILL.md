@@ -1,5 +1,9 @@
 ---
 name: release-notes
+slug: release-notes
+version: "1.0.0"
+displayName: 发布说明
+category: 执行
 description: "从工单、PRD 或变更日志生成面向用户的发布说明。按类别（新功能、优化、修复）组织成清晰、易读的摘要。当需要撰写发布说明、创建变更日志、宣布产品更新或总结上线内容时使用。"
 ---
 

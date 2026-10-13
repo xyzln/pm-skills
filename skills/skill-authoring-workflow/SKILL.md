@@ -1,5 +1,9 @@
 ---
 name: skill-authoring-workflow
+slug: skill-authoring-workflow
+version: "1.0.0"
+displayName: 技能创作工作流
+category: 端到端工作流
 description: 把原始 PM 内容变成合规、可发布的技能。当需要创建或更新仓库中的技能且不破坏标准时使用。
 intent: >-
   有条不紊地创建或更新 PM 技能。这条工作流把粗糙的笔记、工作坊内容或半成品的提示词堆料，转化为合规的 `skills/<skill-name>/SKILL.md` 资产——真正能通过校验、配得上放进本仓库。

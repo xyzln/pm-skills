@@ -1,5 +1,9 @@
 ---
 name: context-engineering-advisor
+slug: context-engineering-advisor
+version: "1.0.0"
+displayName: 上下文工程顾问
+category: AI 交付与 AI 产品
 description: "诊断上下文堆砌与上下文工程的区别。当 AI 工作流显得臃肿、脆弱或难以稳定驾驭时使用。"
 intent: >-
   引导产品经理诊断自己是在做**上下文堆砌**（context stuffing，无意图地堆量）还是**上下文工程**（context engineering，为注意力塑造结构）。用它来识别上下文边界、纠正"上下文囤积症"，并落地有界领域、情景化检索、研究→规划→重置→实施 循环等实战打法。

@@ -1,5 +1,9 @@
 ---
 name: gtm-strategy
+slug: gtm-strategy
+version: "1.0.0"
+displayName: GTM 策略
+category: 上市策略
 description: "制定一份上市策略（GTM），覆盖营销渠道、信息传递、成功指标与发布时间线。当需要规划产品发布、从零创建 GTM 计划，或为新市场定义发布策略时使用。"
 ---
 # 上市策略（GTM Strategy）

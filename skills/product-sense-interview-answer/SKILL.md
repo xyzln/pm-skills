@@ -1,5 +1,9 @@
 ---
 name: product-sense-interview-answer
+slug: product-sense-interview-answer
+version: "1.0.0"
+displayName: 产品感面试回答
+category: 工具箱
 description: 用假设、细分、痛点优先级和 MVP 取舍，组织一段口述的产品感知（product sense）面试回答。当练习产品设计、产品改进或"接下来做什么"类面试题时使用。
 intent: >-
   用一条可复用的六段式回答主线——澄清、理由、目标、细分、痛点、方案选择——教练产品经理候选人应对开放式产品感知面试。用它来练习产品设计和产品改进类问题，避免"方案先行"的回答，并让说出来的内容听起来是有思考的口语，而不是纸面上过度雕琢的稿子。

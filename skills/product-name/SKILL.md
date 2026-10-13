@@ -1,5 +1,9 @@
 ---
 name: product-name
+slug: product-name
+version: "1.0.0"
+displayName: 产品命名
+category: 营销与增长
 description: "脑暴 5 个独特、易记的产品名称，并附与品牌价值观和目标受众相匹配的命名理由。在为新产品命名、品牌重塑或探索产品名称创意时使用。"
 ---
 # 产品命名

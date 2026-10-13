@@ -1,5 +1,9 @@
 ---
 name: grammar-check
+slug: grammar-check
+version: "1.0.0"
+displayName: 语法流畅度检查
+category: 工具箱
 description: "找出文本中的语法、逻辑与流畅度错误，并给出有针对性的修改建议——不重写全文。当需要校对内容、检查写作质量或审阅草稿时使用。"
 ---
 # 语法与流畅度检查

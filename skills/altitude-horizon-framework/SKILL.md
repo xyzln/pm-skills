@@ -1,5 +1,9 @@
 ---
 name: altitude-horizon-framework
+slug: altitude-horizon-framework
+version: "1.0.0"
+displayName: 海拔-水平思维框架
+category: PM 职业发展与领导力
 description: "用高度与视野思维理解从产品经理（PM）到总监（Director）的转变。当你需要诊断职责范围、时间视野或领导力层级的错位时使用。"
 intent: >-
   定义了区分总监思维与产品经理（PM）思维的双轴心智模型：**高度（Altitude）**（目光放得有多宽）和**视野（Horizon）**（目光看得有多远）。用它理解转变中真正变化的东西，诊断哪个转变区间正在制造摩擦，并在组织方向模糊或缺失时运用级联背景图（Cascading Context Map）。

@@ -1,5 +1,9 @@
 ---
 name: business-value-roadmap
+slug: business-value-roadmap
+version: "1.0.0"
+displayName: 商业价值路线图
+category: 商业决策工具
 description: "商业价值与路线图——把价值创造杠杆映射到带可衡量里程碑的产品路线图"
 source: "https://github.com/zrxparley/business-decision-tool"
 ---

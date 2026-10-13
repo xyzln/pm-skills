@@ -1,5 +1,9 @@
 ---
 name: ansoff-matrix
+slug: ansoff-matrix
+version: "1.0.0"
+displayName: 安索夫矩阵
+category: 产品策略
 description: "生成安索夫矩阵分析，把增长策略映射到市场渗透、市场开发、产品开发和多元化经营四个象限。当需要评估增长选项、规划市场扩张或比较战略增长路径时使用。"
 ---
 # 安索夫矩阵（Ansoff Matrix）

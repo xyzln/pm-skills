@@ -1,5 +1,9 @@
 ---
 name: market-sizing
+slug: market-sizing
+version: "1.0.0"
+displayName: 市场规模测算
+category: 市场研究
 description: "用 TAM、SAM、SOM 测算市场规模，结合自上而下与自下而上两种方法。当需要测算市场机会、估算可触达市场、准备投资人路演或评估市场进入时使用。"
 ---
 

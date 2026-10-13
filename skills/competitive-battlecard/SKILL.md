@@ -1,5 +1,9 @@
 ---
 name: competitive-battlecard
+slug: competitive-battlecard
+version: "1.0.0"
+displayName: 竞争战卡
+category: 上市策略
 description: "制作销售可用的竞品作战卡，把你的产品与特定竞品对比——定位、功能对比、异议处理和赢单/丢单规律。当需要为销售团队备战、制作竞争材料或回应「为什么不选竞品 X」时使用。"
 ---
 

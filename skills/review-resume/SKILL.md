@@ -1,5 +1,9 @@
 ---
 name: review-resume
+slug: review-resume
+version: "1.0.0"
+displayName: PM 简历评审
+category: 工具箱
 description: "对照 10 条最佳实践，对产品经理简历做全面评审与针对性优化，涵盖 XYZ+S 公式、关键词优化、岗位定制和结构排版。当需要评审产品经理简历、准备求职投递或提升简历说服力时使用。"
 ---
 # 产品经理简历评审

@@ -1,5 +1,9 @@
 ---
 name: prioritize-assumptions
+slug: prioritize-assumptions
+version: "1.0.0"
+displayName: 假设优先级排序
+category: 产品发现
 description: "用影响力 × 风险矩阵为假设排优先级，并为每个假设建议验证实验。当需要梳理一堆假设、决定先测什么或应用假设优先级画布时使用。"
 ---
 

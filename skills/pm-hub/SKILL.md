@@ -1,5 +1,9 @@
 ---
 name: pm
+slug: pm-hub
+version: "1.0.0"
+displayName: PM 技能中心
+category: 聚合入口
 description: "产品管理技能中心（PM Skills Hub）——所有 PM 技能的聚合入口。使用 /pm 浏览全部分类：产品发现、策略、执行、市场研究、数据分析、GTM、营销增长、工具文档、AI 交付、行业分析、线索打分、商业战略，以及自我进化技能（SkillOpt）。根据用户的选择路由到合适的子技能。"
 ---
 

@@ -1,5 +1,9 @@
 ---
 name: test-scenarios
+slug: test-scenarios
+version: "1.0.0"
+displayName: 测试场景设计
+category: 执行
 description: "从用户故事创建全面的测试场景，包含测试目标、起始条件、用户角色、分步操作与预期结果。当需要编写 QA 测试用例、制定测试计划、定义验收测试，或为功能验证做准备时使用。"
 ---
 # 测试场景

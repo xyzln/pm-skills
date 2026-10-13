@@ -1,5 +1,9 @@
 ---
 name: analyze-feature-requests
+slug: analyze-feature-requests
+version: "1.0.0"
+displayName: 功能请求分析
+category: 产品发现
 description: "按主题、战略契合度、影响、工作量和风险分析并排序一组功能请求。在评审客户功能请求、梳理需求池或做优先级决策时使用。"
 ---
 

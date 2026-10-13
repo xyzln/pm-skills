@@ -1,5 +1,9 @@
 ---
 name: industry-opportunity-analyzer
+slug: industry-opportunity-analyzer
+version: "1.0.0"
+displayName: 行业机会分析
+category: 行业分析
 description: "分析给定行业的机会全景——需求场景、客户痛点、行业政策机会与潜在未来发展。当用户提出「行业机会」「行业痛点」「行业政策」「行业未来」「市场机会」「industry opportunities」「policy trends」等诉求时使用。输出 4 节结构的 Markdown（场景/痛点/政策/未来）。行业分析器插件（6 技能流水线第 4 环）的组成部分。"
 source: "https://github.com/zrxparley/industry-analyzer-skill"
 ---

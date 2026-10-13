@@ -1,5 +1,9 @@
 ---
 name: beachhead-segment
+slug: beachhead-segment
+version: "1.0.0"
+displayName: 滩头市场细分
+category: 上市策略
 description: "为产品发布确定首个滩头市场细分。从痛点强度、付费意愿、可赢得的市场份额和转介绍潜力四个维度评估细分。当需要选择首发市场、瞄准初始客户群或规划市场进入策略时使用。"
 ---
 # 滩头细分（Beachhead Segment）

@@ -1,5 +1,9 @@
 ---
 name: swot-analysis
+slug: swot-analysis
+version: "1.0.0"
+displayName: SWOT 分析
+category: 产品策略
 description: "做一次详细的 SWOT 分析——梳理优势、劣势、机会与威胁，并给出可行动的建议。当你需要做战略评估、竞争分析，或评估某个产品/业务的位置时使用。"
 ---
 # SWOT 分析

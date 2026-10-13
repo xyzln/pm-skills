@@ -1,5 +1,9 @@
 ---
 name: business-context-opportunity
+slug: business-context-opportunity
+version: "1.0.0"
+displayName: 商业背景与机会分析
+category: 商业决策工具
 description: "Business Context & Opportunity Analysis — assess market context, identify white-space opportunities for product strategy"
 source: "https://github.com/zrxparley/business-decision-tool"
 ---

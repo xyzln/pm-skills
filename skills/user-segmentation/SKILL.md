@@ -1,5 +1,9 @@
 ---
 name: user-segmentation
+slug: user-segmentation
+version: "1.0.0"
+displayName: 用户行为细分
+category: 市场研究
 description: "基于行为、待办任务（JTBD）和需求，从反馈数据中划分用户，识别出至少 3 个不同的用户细分。当需要给用户库做细分、分析多样的用户反馈或搭建细分模型时使用。"
 ---
 

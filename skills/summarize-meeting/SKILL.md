@@ -1,5 +1,9 @@
 ---
 name: summarize-meeting
+slug: summarize-meeting
+version: "1.0.0"
+displayName: 会议纪要整理
+category: 执行
 description: "把会议记录整理成结构化纪要，包含日期、参与者、主题、关键决策、要点摘要和行动项。当需要处理会议录音、整理会议笔记、撰写会议纪要或回顾讨论内容时使用。"
 ---
 

@@ -1,5 +1,9 @@
 ---
 name: value-chain-analysis
+slug: value-chain-analysis
+version: "1.0.0"
+displayName: 价值链分析
+category: 商业战略与分析
 description: "价值链分析——识别创造竞争优势的主要活动与支持活动"
 source: "https://github.com/zrxparley/business-decision-tool"
 ---

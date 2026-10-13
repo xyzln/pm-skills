@@ -1,5 +1,9 @@
 ---
 name: sql-queries
+slug: sql-queries
+version: "1.0.0"
+displayName: SQL 查询生成
+category: 数据分析
 description: "把自然语言描述转化为 SQL 查询。支持 BigQuery、PostgreSQL、MySQL 等多种方言。可从上传的图表或文档中读取数据库结构。当你需要写 SQL、搭建数据报表、探索数据库，或把业务问题转成查询时使用。"
 ---
 

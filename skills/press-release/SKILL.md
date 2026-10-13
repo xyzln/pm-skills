@@ -1,5 +1,9 @@
 ---
 name: press-release
+slug: press-release
+version: "1.0.0"
+displayName: 未来新闻稿
+category: 营销与增长
 description: "撰写 Amazon 风格的新闻稿，在动手前先定义客户价值。在就新产品、新功能或战略押注与相关方达成一致时使用。"
 intent: >-
   按照 Amazon 的「逆向工作法」（Working Backwards）撰写一份远见式新闻稿，在产品建成之前定义并传达它。用它让相关方就客户价值主张达成一致、厘清要解决的问题，并检验产品故事能否打动人——把新闻稿当作厘清思路和坚持以客户为中心的强制函数。

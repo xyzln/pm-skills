@@ -1,5 +1,9 @@
 ---
 name: skillopt-optimizer
+slug: skillopt-optimizer
+version: "1.0.0"
+displayName: SkillOpt 优化器
+category: 自我进化 — SkillOpt
 description: "借鉴微软 SkillOpt 理念的产品经理技能优化器——把产品经理技能文档当作可训练的状态。跑完整训练循环：rollout（执行）→ reflect（反思）→ aggregate（聚合）→ select（选择）→ update（更新）→ evaluate（评估）。编辑动作有界，增/删/换均以验证关卡把关。当用户想通过迭代自优化循环系统性改进某个产品经理技能（SKILL.md），或说「优化这个技能」「训练这个产品经理技能」「让这个技能更好」「在这个技能上跑一个训练 Epoch」时使用。"
 source: "https://github.com/microsoft/SkillOpt"
 license: MIT

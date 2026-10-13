@@ -1,5 +1,9 @@
 ---
 name: retro
+slug: retro
+version: "1.0.0"
+displayName: Sprint 复盘
+category: 执行
 description: "主持一场结构化的冲刺复盘——哪些做得好、哪些做得不好，以及带负责人和截止日期的优先级行动项。当需要运行复盘、回顾一个冲刺、从团队反馈中创建行动项，或学习如何开好复盘会时使用。"
 ---
 

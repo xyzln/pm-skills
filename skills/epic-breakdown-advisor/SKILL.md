@@ -1,5 +1,9 @@
 ---
 name: epic-breakdown-advisor
+slug: epic-breakdown-advisor
+version: "1.0.0"
+displayName: 史诗拆分顾问
+category: 产品发现
 description: "使用 Humanizing Work 拆分模式把史诗拆分为用户故事。当需求池（待办列表）中的条目太大、无法估算、排序或安全交付时使用。"
 intent: >-
   引导产品经理（PM）使用 Richard Lawrence 完整的 Humanizing Work 方法论，把史诗拆分为用户故事——这是一套系统化、以流程图驱动的方法，按顺序应用 9 种拆分模式。用它来识别适用哪种模式、在拆分时保住用户价值，并基于拆分所暴露的低价值工作做出评估与取舍。本技能确保采用纵向切片（端到端交付价值）而非横向切片（按技术层切分）。

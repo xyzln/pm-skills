@@ -1,5 +1,9 @@
 ---
 name: identify-assumptions-existing
+slug: identify-assumptions-existing
+version: "1.0.0"
+displayName: 风险假设识别（已有产品）
+category: 产品发现
 description: "识别存量产品中某个功能想法在价值、易用性、商业可行性与技术可行性四大风险领域的风险假设。采用多视角魔鬼代言人式思考。当需要给功能想法做压力测试、做风险评估，或为假设映射做准备时使用。"
 ---
 

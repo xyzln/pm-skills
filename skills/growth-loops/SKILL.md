@@ -1,5 +1,9 @@
 ---
 name: growth-loops
+slug: growth-loops
+version: "1.0.0"
+displayName: 增长闭环
+category: 上市策略
 description: "识别能带来可持续牵引力的增长飞轮（增长闭环）。评估 5 种闭环类型：病毒式、使用、协作、用户生成与推荐。当设计增长机制、构建产品驱动的牵引力或想理解增长闭环如何运作时使用。"
 ---
 

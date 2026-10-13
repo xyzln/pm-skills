@@ -1,5 +1,9 @@
 ---
 name: saas-economics-efficiency-metrics
+slug: saas-economics-efficiency-metrics
+version: "1.0.0"
+displayName: SaaS 单位经济
+category: 数据分析
 description: 评估 SaaS 的单位经济性与资本效率。当需要判断业务能否高效规模化、还是需要先纠偏时使用。
 intent: >-
   判断你的 SaaS 商业模式是否从根本上成立、是否具备资本效率。用它来计算单位经济性、评估盈利能力、管理现金跑道，并决定何时该规模化、何时该先优化。融资、董事会汇报和做出明智的投资取舍时，这一技能必不可少。

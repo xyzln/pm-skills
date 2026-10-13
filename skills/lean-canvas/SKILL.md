@@ -1,5 +1,9 @@
 ---
 name: lean-canvas
+slug: lean-canvas
+version: "1.0.0"
+displayName: 精益画布
+category: 产品策略
 description: "生成一份精益画布，涵盖问题、解决方案、关键指标、成本结构、独特价值主张（UVP）、不公平优势、渠道、客户细分与收入流。当需要探索精益创业画布、验证商业假设或为一个新项目建模时使用。"
 ---
 # 精益画布（Lean Canvas）

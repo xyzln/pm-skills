@@ -1,5 +1,9 @@
 ---
 name: pre-mortem
+slug: pre-mortem
+version: "1.0.0"
+displayName: 事前复盘
+category: 执行
 description: "对 PRD 或上线计划进行事前复盘（pre-mortem）风险分析。将风险分为老虎（Tigers，真实问题）、纸老虎（Paper Tigers，被夸大的担忧）和大象（Elephants，未被充分讨论的隐忧），再归类为上线阻断、快速跟进或持续跟踪。当需要准备上线、压力测试产品计划或识别潜在问题时使用。"
 ---
 

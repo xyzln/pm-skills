@@ -1,5 +1,9 @@
 ---
 name: north-star-metric
+slug: north-star-metric
+version: "1.0.0"
+displayName: 北极星指标
+category: 营销与增长
 description: "定义一个北极星指标（North Star Metric）和 3-5 个构成指标星座的输入指标。判定业务所属的游戏类型（注意力、交易、效率），并用有效北极星的 7 条标准做校验。当需要选择北极星指标、搭建指标框架、了解北极星框架，或决定该衡量什么时使用。"
 ---
 # 北极星指标

@@ -1,5 +1,9 @@
 ---
 name: scenario-analysis
+slug: scenario-analysis
+version: "1.0.0"
+displayName: 情景分析
+category: 商业战略与分析
 description: "情景分析——构建多个合理未来，为战略性产品决策提供依据"
 source: "https://github.com/zrxparley/business-decision-tool"
 ---

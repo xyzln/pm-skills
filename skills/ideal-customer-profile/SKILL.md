@@ -1,5 +1,9 @@
 ---
 name: ideal-customer-profile
+slug: ideal-customer-profile
+version: "1.0.0"
+displayName: 理想客户画像
+category: 上市策略
 description: "从研究数据中识别理想客户画像（ICP），涵盖人口统计、行为、JTBD 与需求。在定义 ICP、分析产品市场匹配（PMF）问卷数据或了解谁是你最好的客户时使用。"
 ---
 # 理想客户画像

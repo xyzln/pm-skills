@@ -1,5 +1,9 @@
 ---
 name: vp-cpo-readiness-advisor
+slug: vp-cpo-readiness-advisor
+version: "1.0.0"
+displayName: VP/CPO 转型辅导
+category: PM 职业发展与领导力
 description: 在准备、面试、落地和重新校准四个阶段，指导向 VP 或 CPO 的转型。当高管级产品职责范围快速变化时使用。
 intent: >-
   通过自适应的提问和有针对性的教练式辅导，引导总监和资深产品领导者走过晋升副总裁（VP）或首席产品官（CPO）过程中的具体挑战。诊断你当前所处的阶段，提供贴合你处境的、来自实战经验的实用辅导——而不是泛泛的高管建议。

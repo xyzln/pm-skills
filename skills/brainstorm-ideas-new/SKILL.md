@@ -1,5 +1,9 @@
 ---
 name: brainstorm-ideas-new
+slug: brainstorm-ideas-new
+version: "1.0.0"
+displayName: 创意脑暴（新产品）
+category: 产品发现
 description: "从产品经理、设计师、工程师三个视角为处于初始发现阶段的新产品头脑风暴功能创意。当需要启动新产品的产品发现、探索创业 idea 的功能，或进行初步创意发散时使用。"
 ---
 

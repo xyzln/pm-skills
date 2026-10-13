@@ -1,5 +1,9 @@
 ---
 name: outcome-roadmap
+slug: outcome-roadmap
+version: "1.0.0"
+displayName: 成果导向路线图
+category: 执行
 description: "把产出导向的路线图转化为成果导向的路线图，让战略意图被清晰传达。将各项目改写为体现用户与业务影响的成果陈述。当需要转向成果路线图、让路线图更具战略性，或把功能清单重写为成果时使用。"
 ---
 

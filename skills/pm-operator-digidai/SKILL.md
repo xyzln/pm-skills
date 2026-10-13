@@ -1,5 +1,9 @@
 ---
 name: product-manager-skills
+slug: pm-operator-digidai
+version: "1.0.0"
+displayName: 全能 PM 操作员
+category: 端到端工作流
 description: "产品经理技能包，适配各类 AI 助手。诊断 SaaS 指标、评审 PRD、规划路线图、开展用户发现、辅导产品经理职业转型、压力测试 AI 产品决策、设计产品驱动增长（PLG）策略。涵盖七大知识领域、12 套模板、40+ 框架，交互风格主见鲜明：标注假设、点名权衡。"
 type: workflow
 source: "https://github.com/Digidai/Product-Manager-Skills"

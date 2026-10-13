@@ -1,5 +1,9 @@
 ---
 name: prioritize-features
+slug: prioritize-features
+version: "1.0.0"
+displayName: 功能优先级排序
+category: 产品发现
 description: "基于影响、工作量、风险与战略契合度对功能构想需求池进行优先级排序，给出前 5 名推荐。当需要排列功能需求池优先级、做范围决策，或给产品想法排名时使用。"
 ---
 

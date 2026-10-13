@@ -1,5 +1,9 @@
 ---
 name: dummy-dataset
+slug: dummy-dataset
+version: "1.0.0"
+displayName: 模拟数据生成
+category: 执行
 description: "生成逼真的模拟数据集用于测试，支持自定义列、约束与输出格式（CSV、JSON、SQL、Python 脚本）。当需要创建测试数据、构建模拟数据集，或为开发与演示生成样本数据时使用。"
 ---
 # 模拟数据集生成

@@ -1,5 +1,9 @@
 ---
 name: value-proposition
+slug: value-proposition
+version: "1.0.0"
+displayName: 价值主张
+category: 产品策略
 description: "用六段式待办任务（JTBD）模板设计一份详尽的价值主张——是谁、为什么、之前如何、如何做、之后如何、替代方案。当需要创建价值主张、分析客户价值交付或阐明客户为何该选择你的产品时使用。"
 ---
 # 价值主张

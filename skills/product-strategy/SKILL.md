@@ -1,5 +1,9 @@
 ---
 name: product-strategy
+slug: product-strategy
+version: "1.0.0"
+displayName: 产品战略画布
+category: 产品策略
 description: "用 9 段式产品战略画布制定一份全面的产品战略——愿景、客群、成本、价值主张、取舍、指标、增长、能力和防御性。当需要制定产品战略、编制战略规划或定义产品方向时使用。"
 ---
 # 产品战略画布

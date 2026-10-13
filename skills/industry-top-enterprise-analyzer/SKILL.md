@@ -1,5 +1,9 @@
 ---
 name: top-enterprise-analyzer
+slug: industry-top-enterprise-analyzer
+version: "1.0.0"
+displayName: 头部企业分析
+category: 行业分析
 description: "分析指定行业的 10 家头部企业，按市值/营收从 1 到 10 排名。当用户说“头部企业分析”“X 行业 Top 10”“行业 Top 10”“行业龙头”“行业头部”“行业 leader”时使用。输出 Markdown，含排名总览表 + 逐家公司深度分析。属于行业分析器插件（6 技能流水线第 1 环）。"
 source: "https://github.com/zrxparley/industry-analyzer-skill"
 ---

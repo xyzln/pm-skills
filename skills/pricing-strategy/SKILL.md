@@ -1,5 +1,9 @@
 ---
 name: pricing-strategy
+slug: pricing-strategy
+version: "1.0.0"
+displayName: 定价策略
+category: 产品策略
 description: "分析并设计定价策略，包括定价模型、竞品价格分析、支付意愿估算与价格弹性。当需要定价、评估定价模型、准备调价，或比较免费增值与付费模式时使用。"
 ---
 

@@ -1,5 +1,9 @@
 ---
 name: product-lifecycle-analysis
+slug: product-lifecycle-analysis
+version: "1.0.0"
+displayName: 产品生命周期分析
+category: 商业战略与分析
 description: "产品生命周期分析——评估产品处于导入期、成长期、成熟期还是衰退期"
 source: "https://github.com/zrxparley/business-decision-tool"
 ---

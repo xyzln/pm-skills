@@ -1,5 +1,9 @@
 ---
 name: interview-script
+slug: interview-script
+version: "1.0.0"
+displayName: 客户访谈脚本
+category: 产品发现
 description: "创建一份结构化的客户访谈脚本，含待办任务（JTBD）追问问题、热身、核心探索与收尾章节。遵循《The Mom Test》（妈妈测试）原则——不诱导、不推销、聚焦过往行为。当需要准备用户访谈、制作访谈提纲或规划发现研究时使用。"
 ---
 

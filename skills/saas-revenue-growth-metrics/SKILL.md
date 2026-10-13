@@ -1,5 +1,9 @@
 ---
 name: saas-revenue-growth-metrics
+slug: saas-revenue-growth-metrics
+version: "1.0.0"
+displayName: SaaS 营收增长指标
+category: 数据分析
 description: 计算 SaaS 收入、留存与增长指标。当需要诊断增长动能、客户流失、增购扩展或产品市场契合度（PMF）信号时使用。
 intent: >-
   掌握收入与留存指标，读懂 SaaS 业务的增长动能，评估产品市场契合度，并据此做出数据驱动的增长投入决策。用它来计算关键指标、解读趋势、及早发现问题，并向相关方（利益相关者）沟通业务健康状况。

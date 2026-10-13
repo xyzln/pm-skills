@@ -1,5 +1,9 @@
 ---
 name: strategy-red-team
+slug: strategy-red-team
+version: "1.0.0"
+displayName: 战略红队
+category: 执行
 description: "对 PRD、路线图或战略做红队演练——在现实出手之前，先攻击其承重假设。先强化再攻击每个论断，按影响 × 出错概率 × 验证成本排序失败模式，并给出每个假设的最便宜验证方式和止损标准。当需要压力测试计划、检验战略、挑战假设，或为高管评审准备文档时使用。"
 ---
 

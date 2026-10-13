@@ -1,5 +1,9 @@
 ---
 name: user-story-mapping-workshop
+slug: user-story-mapping-workshop
+version: "1.0.0"
+displayName: 故事地图工作坊
+category: 执行
 description: 运行一场用户故事地图工作坊，通过自适应提问产出结构化的地图。当需要为某个工作流梳理主干活动、用户任务与发布切片时使用。
 intent: >-
   引导产品经理（PM）创建用户故事地图：先就系统、用户、工作流与优先级提出自适应问题，再生成一张包含主干（活动）、用户任务与发布切片的二维地图。用于把扁平的需求池转化为可视化的故事地图——讲清全局、发现缺失功能、支撑有意义的发布规划——避免故事沦为"脱离上下文的碎料（context-free mulch）"，与整体系统叙事失去关联。

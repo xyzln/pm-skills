@@ -1,5 +1,9 @@
 ---
 name: user-stories
+slug: user-stories
+version: "1.0.0"
+displayName: 用户故事
+category: 执行
 description: "按照 3C 原则（卡片、对话、确认）和 INVEST 标准撰写用户故事，含描述、设计链接与验收标准。当需要撰写用户故事、把功能拆解为需求池（待办列表）条目或定义验收标准时使用。"
 ---
 # 用户故事

@@ -1,5 +1,9 @@
 ---
 name: sprint-plan
+slug: sprint-plan
+version: "1.0.0"
+displayName: Sprint 计划
+category: 执行
 description: "规划一次冲刺（Sprint）：产能估算、故事选择、依赖映射与风险识别。在准备冲刺计划、估算团队产能、挑选故事，或平衡冲刺范围与速率时使用。"
 ---
 

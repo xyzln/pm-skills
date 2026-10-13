@@ -1,5 +1,9 @@
 ---
 name: porters-five-forces
+slug: porters-five-forces
+version: "1.0.0"
+displayName: 波特五力
+category: 产品策略
 description: "进行波特五力分析——同业竞争、供应商议价能力、买方议价能力、替代品威胁和新进入者威胁。当需要分析行业动态、评估竞争力量或判断市场吸引力时使用。"
 ---
 # 波特五力（Porter's Five Forces）

@@ -1,5 +1,9 @@
 ---
 name: workshop-facilitation
+slug: workshop-facilitation
+version: "1.0.0"
+displayName: 工作坊引导指南
+category: 工作坊与引导
 description: 以一次一步、多轮对话的方式引导工作坊。当交互型技能需要一致的节奏、选项与进度跟踪时使用。
 intent: >-
   为交互型技能提供标准的引导模式：一次一步，进度清晰，决策点有自适应建议，打断处理可预期。

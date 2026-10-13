@@ -1,5 +1,9 @@
 ---
 name: tam-sam-som-calculator
+slug: tam-sam-som-calculator
+version: "1.0.0"
+displayName: TAM/SAM/SOM 计算器
+category: 市场研究
 description: "通过明确的假设、方法和注意事项计算 TAM、SAM 和 SOM。当需要为产品创意、商业论证或高管评审做市场规模测算时使用。"
 intent: >-
   引导产品经理（PM）通过提出自适应、贴合场景的问题，为产品创意测算总可寻址市场（TAM）、可服务市场（SAM）和可获取市场（SOM）。用它做出有据可查的市场规模估算——以真实引用、经济预测和人口数据为支撑——这对融资路演、争取预算或验证产品市场匹配（PMF）都必不可少。

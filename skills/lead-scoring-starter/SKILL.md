@@ -1,5 +1,9 @@
 ---
 name: lead-scoring-starter
+slug: lead-scoring-starter
+version: "1.0.0"
+displayName: 线索打分启动
+category: 线索打分
 description: "线索打分的主入口技能。当用户说出 /线索打分、线索评分、客户需求评估、会议纪要评分、需求调研、预算挖掘、决策链判断，或提出产品经理（PM）式的企业线索资格审查问题时使用。本技能必须先走完「先规划后发现」的流程，然后才能产出最终评分。"
 source: "https://github.com/zrxparley/lead-scoring"
 ---

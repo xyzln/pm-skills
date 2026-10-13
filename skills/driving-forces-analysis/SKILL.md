@@ -1,5 +1,9 @@
 ---
 name: driving-forces-analysis
+slug: driving-forces-analysis
+version: "1.0.0"
+displayName: 行业驱动力分析
+category: 商业战略与分析
 description: "行业驱动力分析——识别塑造行业演进与竞争格局的关键力量"
 source: "https://github.com/zrxparley/business-decision-tool"
 ---

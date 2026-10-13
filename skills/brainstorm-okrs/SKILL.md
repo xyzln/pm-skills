@@ -1,5 +1,9 @@
 ---
 name: brainstorm-okrs
+slug: brainstorm-okrs
+version: "1.0.0"
+displayName: OKR 脑暴
+category: 执行
 description: "头脑风暴与公司目标对齐的团队级 OKR——定性的目标搭配可衡量的关键结果。当需要制定季度 OKR、让团队目标与公司战略对齐、起草目标，或学习如何写好 OKR 时使用。"
 ---
 

@@ -1,5 +1,9 @@
 ---
 name: create-prd
+slug: create-prd
+version: "1.0.0"
+displayName: 创建 PRD
+category: 执行
 description: "用一套完整的 8 章节模板创建产品需求文档（PRD），覆盖问题、目标、客群细分、价值主张、解决方案与发布规划。当需要撰写 PRD、记录产品需求、编写功能规格说明，或评审一份已有 PRD 时使用。"
 ---
 

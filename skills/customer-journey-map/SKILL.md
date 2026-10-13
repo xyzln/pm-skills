@@ -1,5 +1,9 @@
 ---
 name: customer-journey-map
+slug: customer-journey-map
+version: "1.0.0"
+displayName: 客户旅程图
+category: 市场研究
 description: "制作端到端客户旅程地图，涵盖阶段、触点、情绪、痛点和机会。当需要梳理客户体验、识别摩擦点、改善新手引导或可视化用户旅程时使用。"
 ---
 

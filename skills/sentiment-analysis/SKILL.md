@@ -1,5 +1,9 @@
 ---
 name: sentiment-analysis
+slug: sentiment-analysis
+version: "1.0.0"
+displayName: 反馈情绪分析
+category: 市场研究
 description: "分析用户反馈数据，识别细分客群及其情绪评分、JTBD 和产品满意度洞察。在大规模分析用户反馈、对评价或问卷做情绪分析或识别满意度模式时使用。"
 ---
 

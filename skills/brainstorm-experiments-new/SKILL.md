@@ -1,5 +1,9 @@
 ---
 name: brainstorm-experiments-new
+slug: brainstorm-experiments-new
+version: "1.0.0"
+displayName: 实验脑暴（新产品）
+category: 产品发现
 description: "为新产品设计精益创业实验（pretotype，预原型）。创建 XYZ 假设，并建议低成本的验证方法，如落地页、讲解视频和预购。当需要验证新产品想法、创建预原型或测试市场需求时使用。"
 ---
 

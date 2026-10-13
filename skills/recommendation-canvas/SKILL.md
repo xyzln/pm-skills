@@ -1,5 +1,9 @@
 ---
 name: recommendation-canvas
+slug: recommendation-canvas
+version: "1.0.0"
+displayName: 产品建议画布
+category: AI 交付与 AI 产品
 description: 从成果、假设、风险与定位四个维度评估一个 AI 产品构想。当需要决定某个 AI 方案是否值得投入或推荐时使用。
 intent: >-
   使用结构化画布评估并提出 AI 产品方案，覆盖业务成果、客户成果、问题定义、方案假设、定位、风险与价值论证。用于为相关方与决策者构建一份全面、经得起推敲的推荐意见——尤其是在提出不确定性更高、风险更大的 AI 功能或产品时。

@@ -1,5 +1,9 @@
 ---
 name: ai-shaped-readiness-advisor
+slug: ai-shaped-readiness-advisor
+version: "1.0.0"
+displayName: AI 就绪度评估
+category: AI 交付与 AI 产品
 description: "评估你的产品工作是「AI 优先（AI-first）」还是「AI 塑造型（AI-shaped）」。在评估 AI 成熟度、选择下一步要建设的团队能力时使用。"
 intent: >-
   评估你的产品工作是 **「AI 优先（AI-first）」**（用 AI 更快地自动化现有任务）还是 **「AI 塑造型（AI-shaped）」**（围绕 AI 能力从根本上重新设计产品团队的运作方式）。用它评估你在 **2026 年 5 项核心产品经理能力** 上的准备度，找出差距，并获得「先建设哪项能力」的具体建议。
