@@ -4,6 +4,7 @@ slug: pm-expert-team
 version: "1.0.0"
 displayName: 产品经理专家团
 category: 产品管理
+description: 135 个中文产品经理技能的合集入口；总协调官按需调度产品策略、用户发现、优先级排序、GTM 增长、SaaS 财务等 14 大领域专业子技能
 type: collection
 source: 中文重构自 zrxparley/pm-skills（原始作者：phuryn、deanpeters、Digidai、Microsoft SkillOpt）；专家团聚合入口由本仓库整理
 license: 混合许可（MIT 与 CC BY-NC-SA 4.0，详见 README.md 与各子技能 SKILL.md 的 source/license 字段）
